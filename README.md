@@ -104,4 +104,4 @@ This is a learning project, not a production-grade FIM tool. Some honest limitat
 
 ## Author
 
-Built by [SecOpsAli](https://github.com/mirzaspam) as part of an ongoing blue team portfolio, alongside a home SOC lab (Wazuh, Sysmon, Kali) and other security tooling projects.
+Built by [SecOpsAli](https://github.com/mirzaspam) as part of an ongoing blue team portfolio.
